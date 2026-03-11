@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\bin\Debug\net10.0\QuestionnaireApp.Application.deps.json
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\bin\Debug\net10.0\QuestionnaireApp.Application.dll
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\bin\Debug\net10.0\QuestionnaireApp.Application.pdb
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\bin\Debug\net10.0\QuestionnaireApp.Domain.dll
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\bin\Debug\net10.0\QuestionnaireApp.Domain.pdb
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\QuestionnaireApp.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\QuestionnaireApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\QuestionnaireApp.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\QuestionnaireApp.Application.AssemblyInfo.cs
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\QuestionnaireApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\Question.548586A5.Up2Date
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\QuestionnaireApp.Application.dll
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\refint\QuestionnaireApp.Application.dll
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\QuestionnaireApp.Application.pdb
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Application\obj\Debug\net10.0\ref\QuestionnaireApp.Application.dll

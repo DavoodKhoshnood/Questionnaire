@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuestionnaireApp.API/QuestionnaireApp.API.csproj" />
+  <Project Path="QuestionnaireApp.Application/QuestionnaireApp.Application.csproj" />
+  <Project Path="QuestionnaireApp.Domain/QuestionnaireApp.Domain.csproj" />
+  <Project Path="QuestionnaireApp.Infrastructure/QuestionnaireApp.Infrastructure.csproj" />
+</Solution>
