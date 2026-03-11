@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuestionnaireApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06273867208c52698e06c38059f02c48425206f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326446057ab25ea38da43f20da264b3ad0f5fe7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuestionnaireApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuestionnaireApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

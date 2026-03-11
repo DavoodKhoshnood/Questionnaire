@@ -54,3 +54,4 @@ C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.API\obj\Debug\net1
 C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.API\obj\Debug\net10.0\QuestionnaireApp.API.pdb
 C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.API\obj\Debug\net10.0\QuestionnaireApp.API.genruntimeconfig.cache
 C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.API\obj\Debug\net10.0\ref\QuestionnaireApp.API.dll
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.API\obj\Debug\net10.0\QuestionnaireApp.API.sourcelink.json

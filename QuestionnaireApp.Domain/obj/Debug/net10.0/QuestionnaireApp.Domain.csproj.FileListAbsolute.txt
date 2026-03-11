@@ -9,3 +9,4 @@ C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Domain\obj\Debug\n
 C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Domain\obj\Debug\net10.0\refint\QuestionnaireApp.Domain.dll
 C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Domain\obj\Debug\net10.0\QuestionnaireApp.Domain.pdb
 C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Domain\obj\Debug\net10.0\ref\QuestionnaireApp.Domain.dll
+C:\Users\HP\Documents\Projects\Questionnaire\QuestionnaireApp.Domain\obj\Debug\net10.0\QuestionnaireApp.Domain.sourcelink.json
