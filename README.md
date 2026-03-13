@@ -134,7 +134,7 @@ Main tables:
 
 ## 1. Clone Repository
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/DavoodKhoshnood/Questionnaire
 
 cd your-repository
 
